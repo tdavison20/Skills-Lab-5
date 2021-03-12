@@ -1,2 +1,2 @@
 # Skills-Lab-5
-Given a name and a year less than 2022 as input, this file returns a message adressing the named person telling them how many years old they are by the end of 2021.
+Given a name, birthdate (mm/dd/yyyy), and current date (mm/dd/yyyy) as input, this file either returns a happy birthday message if the current date and birthdate are the same or it gives the person's age in years.
